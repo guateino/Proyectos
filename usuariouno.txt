@@ -1,0 +1,1 @@
+INSERT INTO usuarios(Nombre,Apellido,Telefono,Direccion,Cargo,Username,Password) VALUES("usuario","usuario",77602012,"guatemala","Administrador","guateino","guateino")
